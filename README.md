@@ -24,3 +24,15 @@ Esse projeto é um teste E2E da aplicação BEEDOO QA Chalenge onde foi executad
 # Evidências dos testes
 Evidenêncas da execução dos testes foi realizada no formato MP4 e se encontra no link (https://drive.google.com/drive/folders/14UDH3KXzhLei9Ng8gwCyirYO_J27F7oA?usp=drive_link) 
 
+# Melhorias no sistema.
+
+**Tela de Lista de Cursos:**
+- 1º Criar uma coampo para localizar os cursos pelo nome.
+- 2º Criar uma opção para o administrado editar as informações do curso.
+  
+**Tela de Cadastrar curso:**
+- 1º Criar um campo de categoria de curso EX. Tecnologia, culinária ...
+- 2º No campo Endereço do curso presencial acrescentar mais detalhes como Cidade, CEP e Bairro.
+- 3º Mensagens de alerta para os campos obrigatórios.
+  
+
