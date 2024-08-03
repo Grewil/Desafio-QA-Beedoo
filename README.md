@@ -39,6 +39,8 @@ Evidenêncas da execução dos testes foi realizada no formato MP4 e se encontra
   
  Foi selecionado 4 testes para executar os testes de regressão sendo os testes que cobre o fluxo de ponta a ponta e para isso foi utilizado o Cypress.
 
+- CT-0001	Validar o botão "Cadastrar curso"
+- CT 0016 - Validar o botão "LISTAR CURSOS" 
 - CT-0002	Cadastrar um curso oline com todas as informações obrigatórias.
 - CT-0003	Cadastrar um curso Presencial com todas as informações obrigatórias.
 - CT-0017	Excluir um curso da lista.
