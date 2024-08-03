@@ -34,5 +34,11 @@ Evidenêncas da execução dos testes foi realizada no formato MP4 e se encontra
 - 1º Criar um campo de categoria de curso EX. Tecnologia, culinária ...
 - 2º No campo Endereço do curso presencial acrescentar mais detalhes como Cidade, CEP e Bairro.
 - 3º Mensagens de alerta para os campos obrigatórios.
+
+# Testes de regressão automatizados com "CYPRESS"
+  
+ Foi selecionado 4 testes para executar os testes de regressão sendo os testes que cobre o fluxo de ponta a ponta e para isso foi utilizado o Cypress.
+
+
   
 
