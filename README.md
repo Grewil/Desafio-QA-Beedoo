@@ -1,5 +1,5 @@
 # Desafio-QA-Beedoo
-Esse projeto é um teste E2E da aplicação BEEDOO QA Chalenge onde foi executado os testes de criar e excluir a lista de cursos.  
+Esse projeto é um teste E2E da aplicação BEEDOO QA Chalenge "https://creative-sherbet-a51eac.netlify.app/" onde foi executado os testes de criar e excluir a lista de cursos.  
 
 # História de usuário:
 
