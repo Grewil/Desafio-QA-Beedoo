@@ -11,7 +11,7 @@ Esse projeto é um teste E2E da aplicação BEEDOO QA Chalenge "https://creative
 - **História do usuário 06** - Como administrador na tela de "Lista de cursos" eu não quero que tenha cursos repetidos.
 
   # Casos de testes manuais
- Os testes manuais está documentado em .XLSX no  Google Sheets no link https://docs.google.com/spreadsheets/d/1BYNnjCUcQVCfEDDa4JRikeC_RedazD85/edit?usp=sharing&ouid=106437964310882198040&rtpof=true&sd=true :
+ Os testes manuais está documentado em .XLSX no  Google Sheets no link (https://docs.google.com/spreadsheets/d/1BYNnjCUcQVCfEDDa4JRikeC_RedazD85/edit?usp=drive_link&ouid=106437964310882198040&rtpof=true&sd=true) :
 
  - **HISTÓRIA DE USUÁRIO:** Levantamento das necessidades de um administrador e de um usuário.
  - PLANEJAMENTO: Levantamento de toas as telas e suas funcionalidades.
