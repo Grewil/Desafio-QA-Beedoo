@@ -37,12 +37,13 @@ Evidenêncas da execução dos testes foi realizada no formato MP4 e se encontra
 
 # Testes de regressão automatizados com "CYPRESS"
   
- Foi selecionado 4 testes para executar os testes de regressão sendo os testes que cobre o fluxo de ponta a ponta e para isso foi utilizado o Cypress.
+ Foi selecionado 5 testes para executar os testes de regressão sendo os testes que cobre o fluxo de ponta a ponta e para isso foi utilizado o Cypress.
+ Na pasta Cypress encontra os teste E2E, devido a rota "https://creative-sherbet-a51eac.netlify.app/new-course" esta acusando o erro "If this is your site, and you weren't expecting a 404 for this path, please visit Netlify's "page not found" support guide for troubleshooting tips" seguindo evidência do teste gravado em MP4  com os testes "https://drive.google.com/drive/folders/1whSeoS_qadDuNVzPe9ZKEXjQJShSiSMm?usp=drive_link" .
 
 - CT-0001	Validar o botão "Cadastrar curso"
 - CT 0016 - Validar o botão "LISTAR CURSOS" 
 - CT-0002	Cadastrar um curso oline com todas as informações obrigatórias.
-- CT-0003	Cadastrar um curso Presencial com todas as informações obrigatórias.
+- CT 0016 - Validar o botão "LISTAR CURSOS"
 - CT-0017	Excluir um curso da lista.
 
   
