@@ -13,7 +13,7 @@ Esse projeto é um teste E2E da aplicação BEEDOO QA Chalenge "https://creative
   # Casos de testes manuais
  Os testes manuais está documentado em .XLSX no  Google Sheets no link https://docs.google.com/spreadsheets/d/1BYNnjCUcQVCfEDDa4JRikeC_RedazD85/edit?usp=sharing&ouid=106437964310882198040&rtpof=true&sd=true :
 
- - **HISTÓRIA DE USUÁRIOS:** Levantamento das necessidades de um administrador e de um usuário.
+ - **HISTÓRIA DE USUÁRIO:** Levantamento das necessidades de um administrador e de um usuário.
  - PLANEJAMENTO: Levantamento de toas as telas e suas funcionalidades.
  - **MAPEAMENTO DOS CASOS DE TESTE:** Mapear todos os testes necessários e controlar algumas informações como (Nº Caso de Teste,	Nome do Caso de Teste,	Complexidade,	Tipo de Teste, 	Necessidade de massa de Teste,	Funcionalidade associada ao CT,	Passível de automação,	Regressivo Obrigatório,	Prioridade,	Versão)
  - **CASOS DE TESTE GHERKIN:** Informações dos casos de testes e a execução dos teses (Nº do Caso de Teste,	Nome do Caso de Teste,	Casos de teste Gherkin,	Execução,	Pré-Requisitos,	Massa de Testes,	Status,	Tela,	Observação).
@@ -39,6 +39,9 @@ Evidenêncas da execução dos testes foi realizada no formato MP4 e se encontra
   
  Foi selecionado 4 testes para executar os testes de regressão sendo os testes que cobre o fluxo de ponta a ponta e para isso foi utilizado o Cypress.
 
+- CT-0002	Cadastrar um curso oline com todas as informações obrigatórias.
+- CT-0003	Cadastrar um curso Presencial com todas as informações obrigatórias.
+- CT-0017	Excluir um curso da lista.
 
   
 
